@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mobileri Alberti">
+    <rect width="64" height="64" rx="10" fill="#3F2A1D"/>
+    <path d="M18 48 31.6 15.5h4.8L50 48h-7.1l-2.7-6.9H27.5L24.8 48H18Zm11.8-12.8h8.1L33.8 24.8l-4 10.4Z" fill="#F7F3ED"/>
+    <path d="M16 52h32" stroke="#B77943" stroke-width="3" stroke-linecap="round"/>
+</svg>
