@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mobileri-alberti.vercel.app/sitemap.xml
