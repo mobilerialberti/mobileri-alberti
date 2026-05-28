@@ -1,0 +1,1 @@
+SEO indexing files added: robots.txt, sitemap.xml, favicon.svg, canonical, Open Graph, and LocalBusiness schema.
